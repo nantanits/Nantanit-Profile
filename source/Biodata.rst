@@ -19,12 +19,12 @@ Educational Backgrounds
 
 **2001** 	
 
-		*Bachelor Degree of Nursing*, Faculty of Medicine, Ramathibodi Hospital,
+		*B.Sc. (Nursing Science)*, Faculty of Medicine, Ramathibodi Hospital,
 		Mahidol University, Bangkok, Thailand 
 		
 **2008** 	
 
-		*Master Degree of Nursing Administration*, Faculty of Nursing, Chulalongkorn University, Bangkok, Thailand
+		*M.Sc. (Nursing Administration)*, Faculty of Nursing, Chulalongkorn University, Bangkok, Thailand
 
 Professional Training
 ---------------------
