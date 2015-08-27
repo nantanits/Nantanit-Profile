@@ -36,6 +36,6 @@ $(window).resize(function(){
         $("li.nav-item-0 a").text("Top");
     }
     else {
-        $("li.nav-item-0 a").text("Nantanit Profile o.1 documentation");
+        $("li.nav-item-0 a").text("Nantanit Profile 1.0 documentation");
     }
 });
